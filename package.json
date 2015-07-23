@@ -1,0 +1,29 @@
+{
+  "name": "kayak.philos.io",
+  "version": "1.0.0",
+  "description": "rebuild kayak for the bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Philos-io/kayak.philos.io.git"
+  },
+  "keywords": [
+    "angular",
+    "javascript",
+    "git",
+    "codeship",
+    "heroku",
+    "azure",
+    "aws"
+  ],
+  "author": "team@philos.io",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Philos-io/kayak.philos.io/issues"
+  },
+  "homepage": "https://github.com/Philos-io/kayak.philos.io#readme"
+}
