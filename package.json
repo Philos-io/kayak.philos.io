@@ -27,6 +27,8 @@
   },
   "homepage": "https://github.com/Philos-io/kayak.philos.io#readme",
   "dependencies": {
-    "angular": "^1.4.3"
+    "angular": "^1.4.3",
+    "material-design-lite": "^1.0.2",
+    "materialize-css": "^0.96.1"
   }
 }
